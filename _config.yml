@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -42,18 +46,3 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "text"
-        field:
-          element: "text"
-          label: "Text label"
-          value: ""
-      - name: "bigtext"
-        field:
-          element: "textarea"
-          label: "Textarea label"
-          value: ""
