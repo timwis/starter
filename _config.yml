@@ -1,6 +1,10 @@
 ---
 published: false
+checkbox: true
+number: 1
+bigtext: null
 ---
+
 
 
 baseurl: /starter
@@ -55,4 +59,11 @@ prose:
           element: "textarea"
           label: "Textarea label"
           value: ""
-
+      - name: "button"
+        field:
+          element: "button"
+          label: "Button label"
+          help: "Button help"
+          on: "Active"
+          off: "Inactive"
+          value: "Button value"
