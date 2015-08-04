@@ -15,6 +15,7 @@ og_description: null
 
 
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -24,86 +25,46 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    "":
-      - name: "layout"
+    '':
+      - name: "checkbox"
         field:
-          element: "hidden"
-          value: "page"
+          element: "checkbox"
+          label: "Checkbox label"
+          help: "Checkbox help"
+          value: true
+      - name: "number"
+        field:
+          element: "number"
+          label: "Number label"
+          help: "Number help"
+          value: 1
+          type: "number"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Multiselect"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
       - name: "title"
         field:
           element: "text"
           label: "Title"
-          placeholder: "Create a Title for the Menu and Browser"
           value: ""
-      - name: "og_title"
+      - name: "text"
         field:
           element: "text"
-          label: "Open Graph: Title"
-          placeholder: "Create a title for social media"
+          label: "Text label"
           value: ""
-      - name: "description"
+      - name: "bigtext"
         field:
           element: "textarea"
-          label: "Description"
-          placeholder: "Create a description for <meta> tags"
+          label: "Textarea label"
           value: ""
-      - name: "og_description"
-        field:
-          element: "textarea"
-          label: "Open Graph: Description"
-          placeholder: "Create a description for social media"
-          value: ""
-      - name: "image"
-        field:
-          element: "text"
-          label: "Hero Image"
-          placeholder: "Specify a relative URI for a hero image"
-          value: ""
-      - name: "og_image"
-        field:
-          element: "text"
-          label: "Open Graph: Image"
-          placeholder: "Specify a relative URI for a social media image"
-          value: ""
-      - name: "nav"
-        field:
-          element: "select"
-          label: "Navigation Type"
-          placeholder: "Choose a navigation type"
-          options:
-            - name: "None"
-              value: "none"
-            - name: "Primary"
-              value: "primary"
-            - name: "Secondary"
-              value: "secondary"
-            - name: "Support"
-              value: "support"
-      - name: "order"
-        field:
-          element: "select"
-          label: "Nav Order"
-          placeholder: "Choose this page's order in navigation"
-          options:
-            - name: "0"
-              value: "0"
-            - name: "1"
-              value: "1"
-            - name: "2"
-              value: "2"
-            - name: "3"
-              value: "3"
-            - name: "4"
-              value: "4"
-            - name: "5"
-              value: "5"
-            - name: "6"
-              value: "6"
-            - name: "7"
-              value: "7"
-            - name: "8"
-              value: "8"
-            - name: "9"
-              value: "9"
-            - name: "10"
-              value: "10"
