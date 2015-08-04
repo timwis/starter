@@ -7,6 +7,7 @@ bigtext: null
 
 
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -59,11 +60,3 @@ prose:
           element: "textarea"
           label: "Textarea label"
           value: ""
-      - name: "button"
-        field:
-          element: "button"
-          label: "Button label"
-          help: "Button help"
-          on: "Active"
-          off: "Inactive"
-          value: "Button value"
