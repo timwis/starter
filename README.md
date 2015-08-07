@@ -4,7 +4,7 @@ title: Untitled
 checkbox: true
 number: 1
 text: 
-  - some value
+  - another different value
   - different value
 textarea: null
 ---
