@@ -19,6 +19,7 @@ textarea: null
 
 
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -65,12 +66,12 @@ prose:
         field:
           element: "text"
           label: "Text label"
-          value: ""
+          value: "some value"
       - name: "text"
-      	field:
-          element: "number"
-          label: "Collision text name"
-          value: "12"
+        field:
+          element: "text"
+          label: "Another Text label"
+          value: "different value"
       - name: "textarea"
         field:
           element: "textarea"
