@@ -7,8 +7,8 @@ bigtext: null
 tags: 
   - bananas
 text: 
+  - some other text
   - sample text
-  - some text
 textarea: null
 raw: test
 ---
