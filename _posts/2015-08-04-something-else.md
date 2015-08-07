@@ -6,7 +6,6 @@ number: 5
 bigtext: null
 tags: 
   - apples
-  - bananas
 text: 
   - this is
   - now right
