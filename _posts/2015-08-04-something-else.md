@@ -7,11 +7,11 @@ bigtext: null
 tags: 
   - bananas
 text: 
-  - A thing
-  - Another thing
+  - "A thing,Another thing"
 textarea: null
 raw: test
 ---
+
 
 
 
