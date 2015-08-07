@@ -8,14 +8,10 @@ tags:
   - bananas
 text: 
   - "A thing,Another thing"
-textarea: null
+  - "A thing,Another thing"
+textarea: something is here
 raw: test
 ---
-
-
-
-
-
 
 ## A New Post
 
