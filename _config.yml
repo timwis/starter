@@ -20,6 +20,7 @@ textarea: null
 
 
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -49,8 +50,6 @@ prose:
           label: "Multiselect"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
             - name: "Bananas"
               value: "bananas"
             - name: "Pears"
