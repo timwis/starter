@@ -8,7 +8,11 @@ nav: none
 order: "0"
 description: null
 og_description: null
+tags: null
+title: ""
+text: ""
 ---
+
 
 
 
@@ -35,7 +39,7 @@ prose:
       - name: "number"
         field:
           element: "number"
-          label: "Number label"
+          label: "Number label
           help: "Number help"
           value: 1
           type: "number"
@@ -63,7 +67,7 @@ prose:
           element: "text"
           label: "Text label"
           value: ""
-      - name: "bigtext"
+      - name: "textarea"
         field:
           element: "textarea"
           label: "Textarea label"
