@@ -8,14 +8,14 @@ tags:
   - bananas
 text: 
   - sample text
-  - another sample text
-textarea: 
-  - sample textarea
+  - some text
+textarea: null
 raw: test
 ---
 
 
 
+
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help. 
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
