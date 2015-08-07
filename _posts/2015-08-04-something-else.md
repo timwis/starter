@@ -7,12 +7,13 @@ bigtext: null
 tags: 
   - bananas
 text: 
-  - "A thing,Another thing"
-  - "A thing,Another thing"
+  - this is
+  - now right
 textarea: something is here
 raw: test
 something: test
 ---
+
 
 
 ## A New Post
