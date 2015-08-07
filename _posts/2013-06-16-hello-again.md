@@ -10,6 +10,7 @@ tags:
 text: this is just some regular text.
 textarea: this is a large block of text that should be in quotes.
 title: Untitled
+something: major
 ---
 
 
