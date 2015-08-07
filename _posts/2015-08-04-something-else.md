@@ -5,6 +5,7 @@ checkbox: false
 number: 5
 bigtext: null
 tags: 
+  - apples
   - bananas
 text: 
   - this is
@@ -13,6 +14,7 @@ textarea: something is here
 raw: test
 something: test
 ---
+
 
 
 
