@@ -11,7 +11,9 @@ og_description: null
 tags: null
 title: ""
 text: ""
+textarea: null
 ---
+
 
 
 
@@ -62,6 +64,11 @@ prose:
           element: "text"
           label: "Text label"
           value: ""
+      - name: "text"
+      	field: 
+          element: "number"
+          label: "Collision text name"
+          value: 12
       - name: "textarea"
         field:
           element: "textarea"
