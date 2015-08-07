@@ -14,6 +14,7 @@ text: ""
 ---
 
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -33,7 +34,7 @@ prose:
       - name: "number"
         field:
           element: "number"
-          label: "Number label
+          label: "Number label"
           help: "Number help"
           value: 1
           type: "number"
