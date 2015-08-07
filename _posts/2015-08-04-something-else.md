@@ -1,10 +1,16 @@
 ---
 published: false
 title: "something-else"
-checkbox: true
-number: 1
+checkbox: false
+number: 5
 bigtext: null
+tags: 
+  - bananas
+text: sample text
+textarea: sample textarea
+raw: test
 ---
+
 
 
 ## A New Post
