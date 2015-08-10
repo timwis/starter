@@ -12,12 +12,8 @@ text:
 textarea: something is here
 raw: test
 something: test
-button: false
+button: true
 ---
-
-
-
-
 
 ## A New Post
 
