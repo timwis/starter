@@ -7,13 +7,14 @@ bigtext: null
 tags: 
   - apples
 text: 
-  - now right
-  - this is
+  - and
+  - then and
 textarea: null
 raw: test
 something: test
 button: true
 ---
+
 
 
 ## A New Post
