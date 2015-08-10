@@ -3,7 +3,7 @@ published: false
 title: "something-else"
 checkbox: 
   - false
-  - true
+  - something
 number: 5
 bigtext: null
 tags: 
@@ -16,6 +16,7 @@ raw: test
 something: test
 button: true
 ---
+
 
 
 
