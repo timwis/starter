@@ -4,7 +4,9 @@ title: "something-else"
 checkbox: true
 number: 5
 bigtext: null
-tags: null
+tags: 
+  - pears
+  - mangos
 text: 
   - and
   - then and
