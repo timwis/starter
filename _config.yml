@@ -13,7 +13,7 @@ prose:
           element: "checkbox"
           label: "Checkbox label"
           help: "Checkbox help"
-          value: true
+          value: "true"
       - name: "number"
         field:
           element: "number"
