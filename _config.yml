@@ -11,4 +11,3 @@ prose:
       - name: "textarea"
         field:
           element: "textarea"
-          value: "default"
