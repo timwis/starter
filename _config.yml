@@ -12,16 +12,19 @@ prose:
         field:
           label: "Textarea 1"
           element: "textarea"
-      - name: "textarea1"
-        field:
-          label: "Textarea 2"
-          element: "textarea"
       - name: "checkbox"
         field:
           element: "checkbox"
           label: "Checkbox label"
           help: "Checkbox help"
           value: "true"
+      - name: "checkbox"
+        field:
+          element: "checkbox"
+          label: "Checkbox label"
+          help: "Checkbox help"
+          value: "true"
+          
       - name: "number"
         field:
           element: "number"
