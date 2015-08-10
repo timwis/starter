@@ -43,13 +43,13 @@ prose:
           element: "text"
           label: "Text label"
           value: "some value"
-      - name: "text"
-        field:
-          element: "text"
-          label: "Another Text label"
-          value: "different value"
 	  - name: "textarea"
         field:
           element: "textarea"
           label: "Textarea label"
           value: ""
+      - name: "text"
+        field:
+          element: "text"
+          label: "Another Text label"
+          value: "different value"
