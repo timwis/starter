@@ -2,8 +2,8 @@
 published: false
 title: "something-else"
 checkbox: 
-  - true
   - false
+  - true
 number: 5
 bigtext: null
 tags: 
