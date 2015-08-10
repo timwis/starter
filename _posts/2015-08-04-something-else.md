@@ -4,10 +4,7 @@ title: "something-else"
 checkbox: true
 number: 5
 bigtext: null
-tags: 
-  - - bananas
-    - mangos
-  - null
+tags: null
 text: 
   - and
   - then and
@@ -16,6 +13,7 @@ raw: test
 something: test
 button: true
 ---
+
 
 
 
