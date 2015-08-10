@@ -20,7 +20,7 @@ prose:
           value: "true"
       - name: "checkbox"
         field:
-          element: "checkbox"
+          element: "textarea"
           label: "Checkbox label"
           help: "Checkbox help"
           value: "true"
