@@ -12,7 +12,7 @@ prose:
         field:
           label: "Textarea 1"
           element: "textarea"
-      - name: "textarea"
+      - name: "textarea1"
         field:
           label: "Textarea 2"
           element: "textarea"
