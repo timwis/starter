@@ -14,6 +14,7 @@ text: ""
 textarea: null
 ---
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -24,13 +25,6 @@ prose:
   media: 'media'
   metadata:
     '':
-      - name: "button"
-        field:
-          element: "button"
-          label: "Button label"
-          help: "Button help"
-          on: "On"
-          off: "Off"
       - name: "checkbox"
         field:
           element: "checkbox"
