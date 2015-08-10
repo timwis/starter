@@ -1,7 +1,9 @@
 ---
 published: false
 title: "something-else"
-checkbox: false
+checkbox: 
+  - true
+  - false
 number: 5
 bigtext: null
 tags: 
@@ -14,6 +16,7 @@ raw: test
 something: test
 button: true
 ---
+
 
 
 
