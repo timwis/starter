@@ -47,7 +47,7 @@ prose:
         field:
           element: "textarea"
           label: "Textarea label"
-          value: ""
+          value: "something"
       - name: "text"
         field:
           element: "text"
