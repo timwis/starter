@@ -37,18 +37,6 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Multiselect"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
       - name: "title"
         field:
           element: "text"
