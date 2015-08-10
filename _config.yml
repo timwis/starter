@@ -26,7 +26,6 @@ prose:
           element: "multiselect"
           label: "Multiselect"
           placeholder: "Choose Tags"
-          alterable: "true"
           options:
             - name: "Bananas"
               value: "bananas"
