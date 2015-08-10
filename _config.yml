@@ -10,7 +10,11 @@ prose:
     "_posts":
       - name: "textarea"
         field:
-          label: "Textarea label"
+          label: "Textarea 1"
+          element: "textarea"
+      - name: "textarea"
+        field:
+          label: "Textarea 2"
           element: "textarea"
       - name: "checkbox"
         field:
