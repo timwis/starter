@@ -1,13 +1,13 @@
 ---
 published: false
 title: "something-else"
-checkbox: 
-  - false
-  - something
+checkbox: true
 number: 5
 bigtext: null
 tags: 
-  - apples
+  - - bananas
+    - mangos
+  - null
 text: 
   - and
   - then and
@@ -16,6 +16,7 @@ raw: test
 something: test
 button: true
 ---
+
 
 
 
