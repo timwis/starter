@@ -16,6 +16,7 @@ textarea: null
 
 
 
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
@@ -25,7 +26,7 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    ' ':
+    "":
       - name: "checkbox"
         field:
           element: "checkbox"
