@@ -10,10 +10,8 @@ prose:
     "_posts":
       - name: "published"
         field:
-          element: "checkbox"
-          label: "Published"
-          help: "Checkbox help"
-          value: "false"
+          element: "hidden"
+          value: false
       - name: "title"
         field:
           element: "text"
