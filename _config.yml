@@ -14,3 +14,7 @@ prose:
           label: "Published"
           help: "Checkbox help"
           value: "false"
+      - name: "title"
+        field:
+          element: "text"
+          labeL: "title"
