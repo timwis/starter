@@ -1,6 +1,6 @@
 ---
 published: true
-title: OK
+title: Blog post
 ---
 
 
