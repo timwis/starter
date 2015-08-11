@@ -13,4 +13,4 @@ prose:
           element: "checkbox"
           label: "Published"
           help: "Checkbox help"
-          value: false
+          value: "false"
