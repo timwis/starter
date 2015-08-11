@@ -6,7 +6,7 @@ number: 5
 bigtext: null
 tags: 
   - pears
-  - mangos
+  - apples
 text: 
   - and
   - then and
@@ -15,13 +15,6 @@ raw: test
 something: test
 button: true
 ---
-
-
-
-
-
-
-
 
 ## A New Post
 
