@@ -8,9 +8,9 @@ prose:
   media: 'media'
   metadata:
     "_posts":
-      - name: "pooblished"
+      - name: "published"
         field:
           element: "checkbox"
-          label: "Pooblished"
+          label: "Published"
           help: "Checkbox help"
           value: false
