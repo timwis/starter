@@ -16,7 +16,8 @@ something: test
 button: true
 ---
 
-![DSC_4008.JPG]({{site.baseurl}}/_posts/DSC_4008.JPG)
+
+![DSC_4008.JPG]({{site.baseurl}}/{{site.baseurl}}/media/DSC_4008.JPG)
 
 
 ## A New Post
