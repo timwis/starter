@@ -6,7 +6,7 @@ number: 5
 bigtext: null
 tags: 
   - pears
-  - mangos
+  - apples
 text: 
   - and
   - then and
