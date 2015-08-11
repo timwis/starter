@@ -1,7 +1,8 @@
 ---
 published: true
-title: ""
+title: "And there's a new title"
 ---
+
 
 ## A New Post
 
