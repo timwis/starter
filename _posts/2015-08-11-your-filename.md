@@ -1,6 +1,6 @@
 ---
 published: true
-title: "And there's a new title"
+title: OK
 ---
 
 
