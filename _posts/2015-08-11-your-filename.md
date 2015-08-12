@@ -1,7 +1,8 @@
 ---
 published: true
-title: Blog post
+title: Slog post
 ---
+
 
 
 ## A New Post
