@@ -10,6 +10,7 @@ defaults:
 prose:
   rooturl: ''
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://prose.github.io/starter/'
   media: 'media'
   metadata:
     "_posts":
