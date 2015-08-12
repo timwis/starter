@@ -21,7 +21,8 @@ prose:
       - name: "title"
         field:
           element: "text"
-          labeL: "title"
+          label: "title"
+          value: "default man"
     "_data":
       - name: "published"
         field:
