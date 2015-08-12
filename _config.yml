@@ -22,3 +22,12 @@ prose:
         field:
           element: "text"
           labeL: "title"
+    "_data":
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+          labeL: "title"
