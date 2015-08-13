@@ -3,3 +3,4 @@ siteurl: ""
 # prose.io specific settings.
 prose:
   rooturl: ""
+  media: "assets/uploads"
