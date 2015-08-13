@@ -12,3 +12,13 @@ prose:
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
+      - name: "tags"
+        field:
+          element: "select"
+          options:
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
