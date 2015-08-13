@@ -9,26 +9,3 @@ defaults:
       published: false
 prose:
   rooturl: ''
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  siteurl: 'http://prose.github.io/starter/'
-  media: 'media'
-  metadata:
-    "_posts":
-      - name: "published"
-        field:
-          element: "hidden"
-          value: true
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          value: "default man"
-    "_data":
-      - name: "published"
-        field:
-          element: "hidden"
-          value: true
-      - name: "title"
-        field:
-          element: "text"
-          labeL: "title"
