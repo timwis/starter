@@ -1,29 +1,2 @@
 # prose.io specific settings.
 prose:
-  #media: assets/post-images
-  ignore:
-    - .editorconfig
-    - .gitignore
-    - .ruby-gemset
-    - .ruby-version
-    - _config.sample.yml
-    - _config.yml
-    - Gemfile
-    - Makefile
-    - site_source/_data
-    - site_source/_html
-    - site_source/_includes
-    - site_source/_layouts
-    - site_source/_plugins
-    - site_source/_posts
-    - site_source/_scss
-    - site_source/lib
-    - site_source/scripts
-    - site_source/styles
-    - site_source/browserconfig.xml
-    - site_source/favicon.ico
-    - site_source/feed.xml
-    - site_source/index.html
-    - site_source/main.js
-    - site_source/robots_sample.txt
-    - site_source/search.html
