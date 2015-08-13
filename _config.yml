@@ -10,5 +10,5 @@ prose:
     "_posts":
       - name: "Date"
         field:
-          type: "text"
+          element: "text"
           value: "CURRENT_DATETIME"
