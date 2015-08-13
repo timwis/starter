@@ -12,7 +12,6 @@ prose:
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
-      - name: "tags"
+      - name: "quotes"
         field:
-          element: "multiselect"
-          alterable: true
+          element: "text"
