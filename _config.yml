@@ -14,7 +14,7 @@ prose:
           value: "CURRENT_DATETIME"
       - name: "tags"
         field:
-          element: "select"
+          element: "multiselect"
           options:
             - name: "Bananas"
               value: "bananas"
