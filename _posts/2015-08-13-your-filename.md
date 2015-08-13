@@ -4,7 +4,9 @@ tags:
   - bananas
   - apples
 published: false
+quotes: "\"some quotes\""
 ---
+
 
 
 ## A New Post
