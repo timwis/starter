@@ -8,8 +8,4 @@ prose:
   media: 'media'
   metadata:
     "_posts":
-      - name: "date"
-        field:
-          label: "Date"
-          element: "text"
-          value: "CURRENT_DATETIME"
+      - date: CURRENT_DATETIME
