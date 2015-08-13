@@ -1,2 +1,3 @@
 # prose.io specific settings.
 prose:
+  rooturl: ''
