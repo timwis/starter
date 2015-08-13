@@ -1,3 +1,5 @@
+baseurl: ""
+siteurl: ""
 # prose.io specific settings.
 prose:
-  rooturl: ''
+  rooturl: ""
