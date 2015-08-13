@@ -10,5 +10,5 @@ prose:
     "_posts":
       - name: "Date"
         field:
-          element: "text"
+          element: "hidden"
           value: "CURRENT_DATETIME"
