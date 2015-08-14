@@ -16,7 +16,7 @@ prose:
         field:
           element: "text"
       - name: "title"
-      - name: "toggle"
+      - name: "published"
         field:
           element: "button"
           label: "do this or no"
