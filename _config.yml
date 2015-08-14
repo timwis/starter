@@ -20,5 +20,5 @@ prose:
         field:
           element: "button"
           label: "do this or no"
-          on: "about"
+          on: "yes"
           off: "no"
