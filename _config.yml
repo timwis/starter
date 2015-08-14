@@ -22,3 +22,8 @@ prose:
           label: "do this or no"
           on: "yes"
           off: "no"
+      - name: "big"
+		field:
+          element: "textarea"
+          value: "default"
+          label: "Does this work?"
