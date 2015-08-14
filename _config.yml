@@ -16,3 +16,8 @@ prose:
         field:
           element: "text"
       - name: "title"
+      - name: "toggle"
+        field:
+          element: "button"
+          on: "on"
+          off: "off"
