@@ -3,10 +3,10 @@ Date: "2015-08-13 18:19 -0400"
 tags: 
   - bananas
   - apples
-  - other
 published: false
-quotes: these are quotes
+quotes: "\"these are quotes\""
 ---
+
 
 
 
