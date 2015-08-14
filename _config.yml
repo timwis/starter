@@ -23,7 +23,7 @@ prose:
           on: "yes"
           off: "no"
       - name: "big"
-		field:
+        field:
           element: "textarea"
           value: "default"
           label: "Does this work?"
