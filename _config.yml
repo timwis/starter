@@ -19,5 +19,6 @@ prose:
       - name: "toggle"
         field:
           element: "button"
+          label: "on/off"
           on: "on"
           off: "off"
