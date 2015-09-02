@@ -2,7 +2,11 @@
 Date: "2015-08-14 16:20 -0400"
 quotes: ""
 published: false
+publish_date: "2015-09-02"
+big: default
+title: Untitled
 ---
+
 
 ## A New Post
 
