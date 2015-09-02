@@ -15,7 +15,7 @@ prose:
       - name: "publish_date"
         field:
           element: "text"
-          value: "CURRENT_DATETIME"
+          placeholder: "dd-mm-yyyy"
       - name: "quotes"
         field:
           element: "text"
