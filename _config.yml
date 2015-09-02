@@ -12,6 +12,10 @@ prose:
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
+      - name: "publish_date"
+        field:
+          element: "text"
+          value: "CURRENT_DATETIME"
       - name: "quotes"
         field:
           element: "text"
