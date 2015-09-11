@@ -34,7 +34,6 @@ prose:
       - name: "select"
         field:
           element: "select"
-          label: "this is a select"
           value: "bar"
           options:
             - name: "foo"
