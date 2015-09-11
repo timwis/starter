@@ -34,9 +34,10 @@ prose:
       - name: "select"
         field:
           element: "select"
-          value: "something"
+          value: "foo"
 		  label: "label is this"
           options:
-            - "something"
-            - "something else"
-            - "this other thing"
+            - name: "foo"
+              value: "foo"
+            - name: "bar"
+              value: "bar"
