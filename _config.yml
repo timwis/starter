@@ -33,7 +33,7 @@ prose:
           label: "Does this work?"
       - name: "select"
         field:
-          element: "multiselect"
+          element: "select"
           value: "bar"
           options:
             - name: "foo"
