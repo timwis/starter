@@ -31,3 +31,12 @@ prose:
           element: "textarea"
           value: "default"
           label: "Does this work?"
+      - name: "select"
+      	field:
+          element: "select"
+          value: "something"
+          options:
+          	- "something"
+            - "something else"
+            - "this other thing"
+          label: "label is this"
