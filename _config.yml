@@ -37,6 +37,6 @@ prose:
           value: "something"
 		  label: "label is this"
           options:
-          	- "something"
+            - "something"
             - "something else"
             - "this other thing"
