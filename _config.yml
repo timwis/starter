@@ -32,11 +32,11 @@ prose:
           value: "default"
           label: "Does this work?"
       - name: "select"
-      	field:
+        field:
           element: "select"
           value: "something"
+		  label: "label is this"
           options:
           	- "something"
             - "something else"
             - "this other thing"
-          label: "label is this"
