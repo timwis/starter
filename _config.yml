@@ -35,7 +35,6 @@ prose:
         field:
           element: "select"
           value: "foo"
-		  label: "label is this"
           options:
             - name: "foo"
               value: "foo"
