@@ -1,18 +1,13 @@
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
-defaults:
-  -
-    scope:
-      path: "_posts"
-    values:
-      published: true
 prose:
   rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
+<<<<<<< HEAD
   metadata:
     - name: 'layout'
       field:
