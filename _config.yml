@@ -9,12 +9,12 @@ prose:
   metadata:
     _posts:
       - name: 'tags'
-      field:
-        element: 'multiselect'
-        label: 'Tags'
-        help: 'Choose relevant tags (optional)'
-        alterable: false
-        options: [
-        'Foo'
-        'Bar'
-        'Baz']
+        field:
+          element: 'multiselect'
+          label: 'Tags'
+          help: 'Choose relevant tags (optional)'
+          alterable: false
+          options: [
+          'Foo'
+          'Bar'
+          'Baz']
