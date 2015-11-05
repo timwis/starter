@@ -15,6 +15,6 @@ prose:
           help: 'Choose relevant tags (optional)'
           alterable: false
           options: [
-            'Foo'
-            'Bar'
+            'Foo',
+            'Bar',
             'Baz']
