@@ -16,6 +16,10 @@ prose:
         field:
           element: 'text'
           label: 'title'
+      - name: 'favorite color'
+        field:
+          element: 'hidden'
+          value: 'blue'
       - name: 'date'
         field:
           element: 'hidden'
