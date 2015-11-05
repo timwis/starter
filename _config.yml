@@ -8,53 +8,13 @@ prose:
   media: 'media'
   metadata:
     _posts:
-      - name: 'layout'
-        field:
-          element: 'hidden'
-          value: 'blog'
-      - name: 'title'
-        field:
-          element: 'text'
-          label: 'title'
-      - name: 'favorite color'
-        field:
-          element: 'hidden'
-          value: 'blue'
-      - name: 'date'
-        field:
-          element: 'hidden'
-          value: CURRENT_DATETIME
-      - name: 'published'
-        field:
-          element: 'hidden'
-          value: true
-      - name: 'author'
-        field:
-          element: 'text'
-          label: '* Author'
-          help: 'Full name of the author (e.g. Tom Sabin) (required)'
       - name: 'tags'
         field:
-          element: 'multiselect'
-          label: 'Tags'
-          help: 'Choose relevant tags (optional)'
-          alterable: false
-          options: [
-            'Agile',
-            'Culture',
-            'Design',
-            'Events',
-            'Innovation',
-            'Lean',
-            'Rails' ]
-      - name: 'main_image'
-        field:
-          element: 'text'
-          label: 'Main blog image URL'
-          help: 'The image that is shown on the blog listing page (optional)'
-      - name: 'weekly_roundup'
-        field:
-          element: 'checkbox'
-          label: 'Weekly roundup?'
-          value: false
-          help: '(optional)'
+        element: 'multiselect'
+        label: 'Tags'
+        help: 'Choose relevant tags (optional)'
+        alterable: false
+        options: [
+          'Foo'
+          'Bar'
+          'Baz']
