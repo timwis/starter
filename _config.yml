@@ -18,3 +18,7 @@ prose:
             'Foo',
             'Bar',
             'Baz']
+    csv:
+      - name: 'field'
+        field:
+          element: 'textarea'
