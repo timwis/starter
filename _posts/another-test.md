@@ -1,7 +1,10 @@
 ---
-tags: null
+tags: 
+  - Foo
+  - "null"
 published: false
 ---
+
 
 ## A New Post
 
